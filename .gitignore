@@ -1,0 +1,5 @@
+/kernel
+/iso_dir/
+/kernel.iso
+/kernel.o
+/src/*.o
